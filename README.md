@@ -1,12 +1,12 @@
 # Olá, me chamo Gleidson Queiroz 👋
 
-#### Estou estudando para me tornar um desenvolverdor web front-end.
+Estou estudando para me tornar um desenvolverdor web front-end.
 <br>
 
-#### No momento, meu foco de estudos é em JavaScript. Sou aluno na 	[Rocketseat](https://www.rocketseat.com.br/).  Não faço freelance e não trabalho na área ainda.
+No momento, meu foco de estudos é em JavaScript. Sou aluno na 	[Rocketseat](https://www.rocketseat.com.br/).  Não faço freelance e não trabalho na área ainda.
 <br>
 
-#### Estou diponível para estudos em grupo para agregar e aprender junto.
+Estou diponível para estudos em grupo para agregar e aprender junto.
 <br>
 
 
