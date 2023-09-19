@@ -3,7 +3,7 @@
 Estou estudando para me tornar um desenvolverdor web front-end.
 <br>
 
-No momento, meu foco de estudos é em JavaScript. Sou aluno na 	[Rocketseat](https://www.rocketseat.com.br/).  Estou em transiçao de carreira, hoje atuo em outra área.
+No momento, meu foco de estudos é em JavaScript. Sou aluno na 	[Rocketseat](https://www.rocketseat.com.br/), estou em transiçao de carreira, hoje atuo em outra área.
 <br>
 
 Estou diponível para estudos em grupo para agregar e aprender junto.
